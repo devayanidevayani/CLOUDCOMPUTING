@@ -1,0 +1,6 @@
+The earth revolves around the sun
+The sun raise in the east
+they attend the concert
+print factorial 
+
+
